@@ -38,7 +38,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
         with:
           source-directory: ./output/
-          destination-github-username: 'dalao-org'
+          destination-github-username: 'xiaomage2000'
           destination-repository-name: 'oneinstack-redirect-mirror'
-          user-email: i@irain.in
+          user-email: 13915895+xiaomage2000@users.noreply.github.com
           target-branch: main
